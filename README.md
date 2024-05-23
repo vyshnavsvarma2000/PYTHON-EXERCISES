@@ -10,7 +10,7 @@ Feel free to explore the problems and solutions provided here. You can use them 
 - [Pattern Questions](#pattern-questions)
 - [Contributing](#contributing)
 - [License](#license)
-
+- [Python basic Projects](#Python-basic-Projects)
 ## Python Practice Problems
 
 1. **Anagram:**
