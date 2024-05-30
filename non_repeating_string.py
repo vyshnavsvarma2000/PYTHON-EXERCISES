@@ -10,7 +10,7 @@ def non_repeating(string):
     for char in string:
         if freq[char] == 1:
             return char
-        return None
+    return None
 
 
 print(non_repeating("Helle"))
