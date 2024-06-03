@@ -78,8 +78,10 @@ Feel free to explore the problems and solutions provided here. You can use them 
 
 22. **Count the Frequency of Words from a Sentence:**
     - Count the frequency of words from a given sentence
-      **Max Sum Subarray:**
-23. - Find the maximum sum of a subarray within a given array
+      
+23. **Max Sum Subarray:**
+    - Find the maximum sum of a subarray within a given array
+ 
    
 24. **Selection Sort:**
     -Implement the selection sort algorithm to sort a list of integers
