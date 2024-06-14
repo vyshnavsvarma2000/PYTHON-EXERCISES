@@ -85,6 +85,8 @@ Feel free to explore the problems and solutions provided here. You can use them 
    
 24. **Selection Sort:**
     -Implement the selection sort algorithm to sort a list of integers
+25. **longest substring without repeating characters**
+    - Given a string, find the longest substring without repeating characters. sliding window
 
 ## Pattern Questions
 
